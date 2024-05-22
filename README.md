@@ -1,3 +1,2 @@
-# blog-gitalk
-
-This repo stores the comments using the Gitalk in [Liyang's Blog](https://liyangsong.github.io/).
+# blog-giscus
+This repo stores the `giscus` comments as `Discussions` in [Liyang's Blog](https://liyangsong.github.io/).
